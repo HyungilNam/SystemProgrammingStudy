@@ -1,0 +1,10 @@
+i Nam
+i Hyeongil
+i Nam
+i Mosu
+i Yedarm
+d Nam
+f Nam
+i Doyeong
+p
+
